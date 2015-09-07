@@ -4,7 +4,12 @@ $break-medium: 768px;
 $break-small-medium: 480px;
 
 // Base colors
-$dark-bg: #485934;
+$dark-bg: #78252a;
 $light-bg: #EDEFF1;
 $muted-text: #999;
 $link-color: $dark-bg;
+
+$legacy-support-for-ie6: false;
+$legacy-support-for-ie7: true;
+$legacy-support-for-ie8: true;
+$legacy-support-for-mozilla: false;
